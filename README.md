@@ -4,8 +4,7 @@
 ## Project Details
 
 ### Description
-![image](https://www.holbertonschool.com/assets/holberton-logo-1cc451260ca3cd297def53f2250a9794810667c7ca7b5fa5879a569a457bf16f.png)
-Project completed for [Holberton School](https://github.com/holbertonschool/)
+
 
 ### What students should learn from this project
 - What is a binary tree
@@ -16,7 +15,7 @@ Project completed for [Holberton School](https://github.com/holbertonschool/)
 - What is a complete, a full, a perfect, a balanced binary tree
 
 #### Environment 
-Ubuntu 14.04 LTS
+Ubuntu 20.04 LTS
 
 ## Table of Contents
 * [**Project Requirements**](#project-requirements)
@@ -642,5 +641,4 @@ This function is used only for visualisation purpose. You don't have to push it 
 
 
 ## Authors
-* **Alexa Orrico** [LinkedIn](https://www.linkedin.com/in/alexa-orrico-412a82b4/)
-* **Tope Agboola** [LinkedIn](https://www.linkedin.com/in/olatopeagboola/) 
+* **Mbiaha Rodrigue** [Github](https://github.com/RodrigueMbiabo/)
